@@ -8,7 +8,6 @@ git clone https://github.com/U2kn0wn/Smart_Directory
 then run the install.sh file
 ```
 chmod +x install.sh``
-`
 ```
 ./install.sh
 ```
