@@ -13,9 +13,10 @@ chmod +x install.sh``
 ./install.sh
 ```
 and you are done installing it
-
+```
 # Use
 to use it type
+
 ```
 . sd <directory name>
 ```
